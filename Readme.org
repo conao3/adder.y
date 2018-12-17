@@ -8,3 +8,5 @@
 
 * What is it?
 This is flex-bison practice repository.
+
+See https://cis.k.hosei.ac.jp/~nakata/lectureCompiler/YaccLex/index.html
