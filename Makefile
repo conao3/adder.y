@@ -1,7 +1,7 @@
 all: bison-adder
 
 bison-adder: bison-adder.tab.c bison-adder.yy.c
-	gcc -o $@ $< -ll
+	gcc -o $@ $< -ll -ly
 
 %.yy.c:%.l
 	flex -o $@ --header-file=$*.yy.h $<
