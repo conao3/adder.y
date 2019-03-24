@@ -35,6 +35,12 @@ See https://cis.k.hosei.ac.jp/~nakata/lectureCompiler/YaccLex/index.html
 * Usage
 
 * Information
+** Community
+All feedback and suggestions are welcome!
+
+You can use github issues, but you can also use [[https://join.slack.com/t/conao3-support/shared_invite/enQtNTg2MTY0MjkzOTU0LTFjOTdhOTFiNTM2NmY5YTE5MTNlYzNiOTE2MTZlZWZkNDEzZmRhN2E0NjkwMWViZTZiYjA4MDUxYTUzNDZiNjY][Slack]]
+if you want a more casual conversation.
+
 ** Contribute
 Feel free to send PR!
 
