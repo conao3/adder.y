@@ -39,7 +39,8 @@ See https://cis.k.hosei.ac.jp/~nakata/lectureCompiler/YaccLex/index.html
 * Information
 ** Donation
 I love OSS and I am dreaming of working on it as *full-time* job.
-/*With your support*/, I will be able to spend more time at OSS!
+
+*With your support*, I will be able to spend more time at OSS!
 
 [[https://www.patreon.com/conao3][https://c5.patreon.com/external/logo/become_a_patron_button.png]]
 
