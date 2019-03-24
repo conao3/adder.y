@@ -16,6 +16,7 @@
 - [[#usage][Usage]]
 - [[#information][Information]]
   - [[#donation][Donation]]
+  - [[#community][Community]]
   - [[#contribute][Contribute]]
   - [[#license][License]]
   - [[#author][Author]]
