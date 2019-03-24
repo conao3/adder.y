@@ -17,7 +17,7 @@
 - [[#install][Install]]
 - [[#usage][Usage]]
 - [[#information][Information]]
-  - [[#contributing][Contributing]]
+  - [[#contribute][Contribute]]
   - [[#license][License]]
   - [[#author][Author]]
 
@@ -36,7 +36,7 @@ See https://cis.k.hosei.ac.jp/~nakata/lectureCompiler/YaccLex/index.html
 * Usage
 
 * Information
-** Contributing
+** Contribute
 Feel free to send PR.
 
 ** License
