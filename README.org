@@ -19,7 +19,7 @@
   - [[#contribute][Contribute]]
   - [[#license][License]]
   - [[#author][Author]]
-  - [[#contribute-authors][Contribute Authors]]
+  - [[#contributor][Contributor]]
 
 * Background
 This software is for just practice ~bison~ and ~flex~.
@@ -48,7 +48,7 @@ All feedback and suggestions are welcome!
 You can use github issues, but you can also use [[https://join.slack.com/t/conao3-support/shared_invite/enQtNTg2MTY0MjkzOTU0LTFjOTdhOTFiNTM2NmY5YTE5MTNlYzNiOTE2MTZlZWZkNDEzZmRhN2E0NjkwMWViZTZiYjA4MDUxYTUzNDZiNjY][Slack]]
 if you want a more casual conversation.
 
-** Contribute
+** Contribution
 Feel free to send PR!
 
 ** License
@@ -61,5 +61,5 @@ Feel free to send PR!
 ** Author
 - Naoya Yamashita ([[https://github.com/conao3][conao3]])
 
-** Contribute Authors
+** Contributor
 - Not yet... Now send PR and add your name!!
