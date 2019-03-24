@@ -20,6 +20,7 @@
   - [[#contribute][Contribute]]
   - [[#license][License]]
   - [[#author][Author]]
+  - [[#contribute-author][Contribute Author]]
 
 * Background
 This software is for just practice ~bison~ and ~flex~.
@@ -46,3 +47,5 @@ https://github.com/conao3/adder.y/blob/master/LICENSE
 
 ** Author
 Naoya Yamashita (conao3)
+
+** Contribute Author
