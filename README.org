@@ -40,7 +40,7 @@ See https://cis.k.hosei.ac.jp/~nakata/lectureCompiler/YaccLex/index.html
 Feel free to send PR.
 
 ** License
-The Affero General Public License Version 3 (AGPL3)
+The MIT License (MIT)
 Copyright (c) Naoya Yamashita - https://conao3.com
 https://github.com/conao3/adder.y/blob/master/LICENSE
 
