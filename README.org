@@ -46,6 +46,6 @@ Copyright (c) Naoya Yamashita - https://conao3.com
 https://github.com/conao3/adder.y/blob/master/LICENSE
 
 ** Author
-Naoya Yamashita (conao3)
+- Naoya Yamashita ([[https://github.com/conao3][conao3]])
 
 ** Contribute Author
