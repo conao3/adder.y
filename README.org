@@ -39,9 +39,11 @@ See https://cis.k.hosei.ac.jp/~nakata/lectureCompiler/YaccLex/index.html
 Feel free to send PR!
 
 ** License
+#+begin_quote
 The MIT License (MIT)
 Copyright (c) Naoya Yamashita - https://conao3.com
 https://github.com/conao3/adder.y/blob/master/LICENSE
+#+end_quote
 
 ** Author
 - Naoya Yamashita ([[https://github.com/conao3][conao3]])
