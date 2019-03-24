@@ -1,6 +1,7 @@
 #+author: conao3
 #+date: <2018-10-25 Thu>
 
+[[https://github.com/conao3/adder.y][https://raw.githubusercontent.com/conao3/files/master/header/png/adder.y.png]]
 [[https://github.com/conao3/adder.y/blob/master/LICENSE][https://img.shields.io/github/license/conao3/adder.y.svg?style=flat-square]]
 [[https://github.com/conao3/adder.y/releases][https://img.shields.io/github/tag/conao3/adder.y.svg?style=flat-square]]
 [[https://travis-ci.org/conao3/adder.y][https://img.shields.io/travis/conao3/adder.y/master.svg?style=flat-square]]
@@ -8,7 +9,6 @@
 [[https://www.patreon.com/conao3][https://img.shields.io/badge/patreon-@conao3-orange.svg?logo=patreon&style=flat-square]]
 [[https://twitter.com/conao_3][https://img.shields.io/badge/twitter-@conao__3-blue.svg?logo=twitter&style=flat-square]]
 [[https://join.slack.com/t/conao3-support/shared_invite/enQtNTg2MTY0MjkzOTU0LTFjOTdhOTFiNTM2NmY5YTE5MTNlYzNiOTE2MTZlZWZkNDEzZmRhN2E0NjkwMWViZTZiYjA4MDUxYTUzNDZiNjY][https://img.shields.io/badge/chat-on_slack-blue.svg?logo=slack&style=flat-square]]
-[[https://github.com/conao3/adder.y][https://raw.githubusercontent.com/conao3/files/master/header/png/adder.y.png]]
 
 * Table of Contents
 - [[#background][Background]]
