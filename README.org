@@ -38,7 +38,7 @@ See https://cis.k.hosei.ac.jp/~nakata/lectureCompiler/YaccLex/index.html
 
 * Information
 ** Contribute
-Feel free to send PR.
+Feel free to send PR!
 
 ** License
 The MIT License (MIT)
